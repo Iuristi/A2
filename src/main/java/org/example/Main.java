@@ -20,5 +20,5 @@ public class Main {
 
 //Questions:
 //✓ What will be printed? - "5"
-//✓ Why does the program not crash? - " იმიტომ რომ გვაქვს if პირობა (text != null) რომელიც ამოწმებს გვაქვს თუარა null და რადგან არ გვაქვს გამოიძახებს  length = text.length()"
+//✓ Why does the program not crash? - " იმიტომ რომ გვაქვს if პირობა (text != null) რომელიც ამოწმებს გვაქვს თუარა null და რადგან  გვაქვს  არ გამოიძახებს  length = text.length() გამოიძახებს else პირობას"
 //✓ What would cause a NullPointerException here?  - "თუ გვექნებოდა String text = null; int length = text.length() ან თუ if–else არ იქნებოდა"
